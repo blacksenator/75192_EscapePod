@@ -1,4 +1,4 @@
-# LEGO^®^ 75192 EscapePod
+# LEGO® 75192 EscapePod
 
 These are the LDraw files describing the assemblies for an Escape Pod that goes with LEGO model 75192 Millennium Falcon UCS.
 
