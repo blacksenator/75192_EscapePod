@@ -1,0 +1,23 @@
+0 022 subassambly engin mount
+0 Name: 75192 ext subassambly 022.ldr
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 72 0 0 -20 1 0 0 0 0 1 0 -1 0 27940.dat
+0 STEP
+1 7 -20 0 -20 0 0 1 0 1 0 -1 0 0 3651.dat
+1 7 20 0 -20 0 0 -1 0 1 0 1 0 0 3651.dat
+0 STEP
+1 1 0 0 -20 0 0 1 0 1 0 -1 0 0 6558.dat
+0 STEP
+1 0 0 0 0 0 0 1 -1 0 0 0 -1 0 32316.dat
+0 STEP
+1 71 -40 0 20 -1 0 0 0 1 0 0 0 -1 75192 ext component 017.ldr
+1 71 40 0 20 -1 0 0 0 1 0 0 0 -1 75192 ext component 017.ldr
+0 STEP
+1 4 0 0 -40 0 0 1 -1 0 0 0 -1 0 32316.dat
+1 14 -40 0 -55 1 0 0 0 1 0 0 0 1 32123b.dat
+1 14 40 0 -56 1 0 0 0 1 0 0 0 1 32123b.dat
+0 STEP
+0

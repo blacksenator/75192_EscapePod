@@ -1,0 +1,27 @@
+0 017 component engine
+0 75192 ext component 017
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 STEP
+0 STEP
+1 72 0 0 0 0 1 0 -1 0 0 0 0 1 60208.dat
+1 1 -20 0 -10 0 0 -1 0 1 0 1 0 0 2780.dat
+1 1 20 0 -10 0 0 -1 0 1 0 1 0 0 2780.dat
+0 STEP
+1 1 -10 -16 -10 0 0 1 0 1 0 -1 0 0 4274.dat
+1 1 10 -16 -10 0 0 1 0 1 0 -1 0 0 4274.dat
+1 1 10 16 -10 0 0 1 0 1 0 -1 0 0 4274.dat
+1 1 -10 16 -10 0 0 1 0 1 0 -1 0 0 4274.dat
+0 STEP
+1 41 0 0 -30 0 1 0 -1 0 0 0 0 1 18588.dat
+0 STEP
+1 71 0 0 -30 -0.0871557 0.996195 0 -0.996195 -0.0871557 0 0 0 1 18587.dat
+0 STEP
+1 72 0 0 30 0 0 1 0 1 0 -1 0 0 55013.dat
+0 STEP
+0 ROTSTEP 180 0 0 REL
+0 STEP
+0 ROTSTEP END
+0

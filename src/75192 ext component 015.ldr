@@ -1,0 +1,19 @@
+0 015 component rear deck framework left
+0 75192 ext component 015
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 3895.dat
+1 1 60 10 10 0 0 1 0 1 0 -1 0 0 2780.dat
+1 1 100 10 10 0 0 1 0 1 0 -1 0 0 2780.dat
+0 STEP
+1 71 160 0 20 1 0 0 0 1 0 0 0 1 3895.dat
+1 1 200 10 10 0 0 1 0 1 0 -1 0 0 2780.dat
+1 1 260 10 10 0 0 1 0 1 0 -1 0 0 2780.dat
+0 STEP
+1 71 300 0 0 1 0 0 0 1 0 0 0 1 3895.dat
+1 1 360 10 -10 0 0 1 0 1 0 -1 0 0 4274.dat
+1 1 400 10 -10 0 0 1 0 1 0 -1 0 0 4274.dat
+0 
+0

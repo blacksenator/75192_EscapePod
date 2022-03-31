@@ -1,0 +1,10 @@
+0 005 component head framework base top
+0 75192 ext submodel 005
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 1
+1 71 28 8 -32 1 0 0 0 0.999914 0.0130896 0 -0.0130896 0.999914 32018.dat
+1 15 -92 0 -32 1 0 0 0 1 0 0 0 1 11458.dat
+1 15 148 0 -32 -1 0 0 0 1 0 0 0 -1 11458.dat
+0

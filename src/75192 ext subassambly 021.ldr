@@ -1,0 +1,19 @@
+0 021 subassambly head framework
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 1 0 0 0 1 0 0 0 1 75192 ext component 001.ldr
+0 STEP
+1 71 86 30 173 0.329691 -0.944089 0 0 0 1 -0.944089 -0.329691 0 75192 ext component 003.ldr
+0 STEP
+1 71 -161.878 30 145 0.329691 0.944089 0 0 0 1 0.944089 -0.329691 0 75192 ext component 002.ldr
+0 STEP
+1 71 -33.25 10 244.5 1 0 0 0 0 1 0 -1 0 75192 ext component 004.ldr
+0 STEP
+1 71 -161.878 -10 145 -0.329691 0.944089 0 0 0 -1 -0.944089 -0.329691 0 32018.dat
+1 71 95.878 -10 144.5 0.329691 -0.944089 0 0 0 1 -0.944089 -0.329691 0 32018.dat
+0 STEP
+1 71 -61 22 37.75 1 0 0 0 0 1 0 -1 0 75192 ext component 005.ldr
+0 STEP
+0

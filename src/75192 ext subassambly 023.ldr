@@ -1,0 +1,11 @@
+0 023 subassambly body framework left
+0 Name: 75192 ext subassambly 023.ldr
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 1 0 0 0 0 1 0 -1 0 75192 ext component 006.ldr
+0 STEP
+1 71 -40 -32 -32 -1 0 0 0 0 -1 0 -1 0 75192 ext component 011.ldr
+0

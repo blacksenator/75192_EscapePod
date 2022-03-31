@@ -1,0 +1,24 @@
+0 025 subassambly body and stern framework
+0 Name: 75192 ext subassambly 025.ldr
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 0 0 0 1 0 0 0 0 1 0 -1 0 75192 ext component 008.ldr
+0 STEP
+0 BUFEXCHG A STORE
+0 GHOST 1 71 60 21 56 1 0 0 0 1 0 0 0 1 75192 ext subassambly 024.ldr
+0 STEP
+0 GHOST 1 71 220 21 56 1 0 0 0 1 0 0 0 1 75192 ext subassambly 023.ldr
+0 STEP
+0 GHOST 1 71 0 -20 66 1 0 0 0 1 0 0 0 1 75192 ext subassambly 022.ldr
+0 STEP
+0 GHOST 1 71 0 -40 0 1 0 0 0 0 1 0 -1 0 75192 ext component 009.ldr
+0 STEP
+0 BUFEXCHG A RETRIEVE
+1 71 -90 21 186 0 0 -1 0 1 0 1 0 0 75192 ext subassambly 024.ldr
+1 71 90 21 -94 0 0 1 0 1 0 -1 0 0 75192 ext subassambly 023.ldr
+1 71 0 -20 66 1 0 0 0 1 0 0 0 1 75192 ext subassambly 022.ldr
+1 71 0 -40 0 1 0 0 0 0 1 0 -1 0 75192 ext component 009.ldr
+0 STEP
+0

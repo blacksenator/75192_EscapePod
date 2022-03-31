@@ -1,0 +1,23 @@
+0 006 component body framework left
+0 75192 ext component 006
+0 Author: BlackSenator
+0 UCS Millenium Falcon escape pod
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 71 -60 0 -21 1 0 0 0 1 0 0 0 1 3894.dat
+1 1 -100 10 -41 0 -1 0 0 0 1 -1 0 0 6558.dat
+1 1 -20 10 -41 0 -1 0 0 0 1 -1 0 0 6558.dat
+0 STEP
+1 71 140 0 -21 1 0 0 0 1 0 0 0 1 3895.dat
+1 1 140 10 -41 0 -1 0 0 0 1 -1 0 0 6558.dat
+1 1 40 10 -41 0 -1 0 0 0 1 -1 0 0 6558.dat
+0 STEP
+1 72 0 0 -41 1 0 0 0 1 0 0 0 1 3703.dat
+1 1 -140 10 -41 0 -1 0 0 0 1 -1 0 0 6558.dat
+0 STEP
+1 1 240 10 -41 0 -1 0 0 0 1 -1 0 0 6558.dat
+1 0 220 10 -41 0 0 1 0 1 0 -1 0 0 18651.dat
+0 STEP
+1 71 -60 0 -61 1 0 0 0 1 0 0 0 1 3894.dat
+0 
+0
